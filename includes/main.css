@@ -708,7 +708,7 @@
 
     .extra-big-logo
     {
-        top: 0;
+        top: 90;
         right: 0;
         position: absolute;
         width: 780px;
@@ -726,6 +726,7 @@
         width: 440px;
         height: 605px;
         right: 150px;
+        top: 80;
     }
 
     .extra-text

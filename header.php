@@ -1,45 +1,4 @@
 
-
-	<script type="text/javascript">
-
-		document.oncontextmenu = cmenu;
-		function cmenu()
-		{
-			return false;
-		}
-		
-		document.onkeydown = function(e) 
-		{
-			
-			if(event.keyCode == 123) 
-			{
-				return false;
-			}
-
-			if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0))
-			{
-				return false;
-			}
-
-			if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0))
-			{
-				return false;
-			}
-
-			if(e.ctrlKey && e.keyCode == 'S'.charCodeAt(0))
-			{
-				return false;
-			}
-
-			if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0))
-			{
-				return false;
-			}
-
-		}
-	</script>
-
-
 	<link rel="stylesheet" type="text/css" href="includes/main.css">
 
 	<link rel="shortcut icon" href="includes/img/shortcut_logo.png" type="image/png">

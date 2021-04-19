@@ -69,7 +69,7 @@
 		<div class="landing-middle-container">
 			<div class="landing-middle-downer-content left">
 				<img class="landing-middle-downer-content-img" src="includes/img/landing-middle-downer2.png">
-				<div class="landing-middle-downer-content-title">Пройдите простую регистрацию</div>
+				<div class="landing-middle-downer-content-title">Пройдите простую <br> регистрацию</div>
 				<div class="landing-middle-downer-content-downtext">Доп инфо</div>
 			</div>
 			<div class="landing-middle-downer-content left">

@@ -28,7 +28,6 @@
 
 	</style>
 
-	
 
 	<title>AICAP - Регистрация</title>
 
@@ -49,12 +48,12 @@
 		<div class="input-container">
 			<input class="input" id="password-input" name="" placeholder="Password" type="password">
 			<a onclick="return show_hide_password(this);">
-				<img class="input-eye right" src="includes/img/hide 1.png" id="sign_swap_password" onclick="swap_password();">
+				<img class="input-eye right" src="includes/img/eye.png" id="sign_swap_password" onclick="swap_password();">
 			</a>
 		</div>
 
 		<div class="input-downtext left sign-up-downtext">
-			<img onclick="swap(); "src="includes/img/Ellipse 31.png" id="sign_swap" class="sign-up-downtext-img">
+			<img onclick="swap(); "src="includes/img/sign-ip-downtext-img.png" id="sign_swap" class="sign-up-downtext-img">
 			Accept <a class="sign-up-downtext-tc"> Terms & Conditions</a>
 		</div>
 

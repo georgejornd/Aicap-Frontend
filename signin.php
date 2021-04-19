@@ -43,7 +43,7 @@
 		<div class="input-container">
 			<input class="input" id="password-input" name="" placeholder="Password" type="password">
 			<a onclick="return show_hide_password(this);">
-				<img class="input-eye right" src="includes/img/hide 1.png" id="sign_swap_password" onclick="swap_password();">
+				<img class="input-eye right" src="includes/img/eye.png" id="sign_swap_password" onclick="swap_password();">
 			</a>
 		</div>
 
